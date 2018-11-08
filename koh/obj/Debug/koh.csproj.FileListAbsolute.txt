@@ -26,3 +26,13 @@ E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.csproj.Gen
 E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.csproj.CoreCompileInputs.cache
 E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.exe
 E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.pdb
+D:\Study\koh\koh\bin\Debug\koh.exe.config
+D:\Study\koh\koh\bin\Debug\koh.exe
+D:\Study\koh\koh\bin\Debug\koh.pdb
+D:\Study\koh\koh\obj\Debug\koh.csprojAssemblyReference.cache
+D:\Study\koh\koh\obj\Debug\koh.Form1.resources
+D:\Study\koh\koh\obj\Debug\koh.Properties.Resources.resources
+D:\Study\koh\koh\obj\Debug\koh.csproj.GenerateResource.cache
+D:\Study\koh\koh\obj\Debug\koh.csproj.CoreCompileInputs.cache
+D:\Study\koh\koh\obj\Debug\koh.exe
+D:\Study\koh\koh\obj\Debug\koh.pdb
