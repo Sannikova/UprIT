@@ -29,7 +29,7 @@ namespace koh
             //Выбираем цвета зарисовки 
             pen1 = new Pen(Color.White, 1); 
             pen2 = new Pen(Color.White, 1);
-            //Объявляем объект "g" класса Graphics
+
             g = CreateGraphics();
             g.Clear(Color.LightSteelBlue);//Зарисовка экрана
  
