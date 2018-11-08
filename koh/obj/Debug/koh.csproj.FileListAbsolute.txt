@@ -1,0 +1,28 @@
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\bin\Debug\koh.exe.config
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\obj\Debug\koh.Form1.resources
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\obj\Debug\koh.Properties.Resources.resources
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\obj\Debug\koh.csproj.GenerateResource.Cache
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\bin\Debug\koh.exe
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\bin\Debug\koh.pdb
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\obj\Debug\koh.exe
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\obj\Debug\koh.pdb
+c:\users\milera\documents\visual studio 2013\Projects\koh\koh\obj\Debug\koh.csprojResolveAssemblyReference.cache
+F:\koh\koh\bin\Debug\koh.exe.config
+F:\koh\koh\obj\Debug\koh.exe
+F:\koh\koh\obj\Debug\koh.pdb
+F:\koh\koh\bin\Debug\koh.exe
+F:\koh\koh\bin\Debug\koh.pdb
+F:\koh\koh\obj\Debug\koh.csprojResolveAssemblyReference.cache
+F:\koh\koh\obj\Debug\koh.Form1.resources
+F:\koh\koh\obj\Debug\koh.Properties.Resources.resources
+F:\koh\koh\obj\Debug\koh.csproj.GenerateResource.Cache
+E:\Управление ИТ проектами\koh\koh\bin\Debug\koh.exe.config
+E:\Управление ИТ проектами\koh\koh\bin\Debug\koh.exe
+E:\Управление ИТ проектами\koh\koh\bin\Debug\koh.pdb
+E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.csprojAssemblyReference.cache
+E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.Form1.resources
+E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.Properties.Resources.resources
+E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.csproj.GenerateResource.cache
+E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.csproj.CoreCompileInputs.cache
+E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.exe
+E:\Управление ИТ проектами\koh\koh\obj\Debug\koh.pdb
